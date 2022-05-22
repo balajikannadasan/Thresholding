@@ -13,7 +13,7 @@ Import packages cv2 and matplotlib.
 <br>
 
 ### Step2:
-Raed the image and convert it into grayscale image.
+Read the image and convert it into grayscale image.
 <br>
 
 ### Step3:
