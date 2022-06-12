@@ -31,7 +31,10 @@ Perform optimum global thresholding by otsu method.
 ### Step6:
 Run the programs and show the outputs.
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program
 ~~~
 Program developed by: K.Balaji
@@ -94,7 +97,12 @@ plt.imshow(th7,cmap='gray')
 <br>
 <br>
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Global Thresholding
 ![o](./3.png)
 
@@ -112,17 +120,37 @@ plt.imshow(th7,cmap='gray')
 <br>
 <br>
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Adaptive Thresholding
 ![o](./8.png)
-
-
 
 ![o](./9.png)
 <br>
 <br>
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Optimum Global Thesholding using Otsu's Method
 ![o](./10.png)
 <br>
